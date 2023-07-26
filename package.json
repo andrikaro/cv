@@ -1,6 +1,7 @@
 {
   "dependencies": {
     "jsonresume-theme-actual": "^0.2.1",
+    "jsonresume-theme-eloquent": "^4.1.0",
     "jsonresume-theme-kendall-modern": "^0.1.6"
   }
 }
